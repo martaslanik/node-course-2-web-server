@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6elwq0CXvn5_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Knowledge Translation beta</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/60kaY3Ggjf6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">A clinicain's roadmap to KT</name>
+			<description lang="und">A clinicain's roadmap to KT</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/63OjH79KuZl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Defining the key elements</name>
+			<description lang="und">Defining the key elements</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6Vlhce798JD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Difference between KT and EBP</name>
+			<description lang="und">Difference between KT and EBP</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6ld1IaeAkYa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Translation: What is it?</name>
+			<description lang="und">Knowledge Translation: What is it?</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6mt7ZXmo0H6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Translation: Why is it important?</name>
+			<description lang="und">Knowledge Translation: Why is it important?</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6XuaH8prchO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Rehabilitation Practice</name>
+			<description lang="und">Rehabilitation Practice</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6NxpIXoVoyh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">EBP</name>
+			<description lang="und">EBP</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6oFdSedxhAS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge to Action Model</name>
+			<description lang="und">Knowledge to Action Model</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6oqNRipkY1v" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge to Action Model</name>
+			<description lang="und">Knowledge to Action Model</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/62QDZ6oXiiW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Roadmap to Knowledge Translation</name>
+			<description lang="und">Roadmap to Knowledge Translation</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/648ebWxXGWG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 1: Identify the problem</name>
+			<description lang="und">Step 1: Identify the problem</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/68ft5zJdgZm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 1A: Strategies for identifying the practice gap</name>
+			<description lang="und">Step 1A: Strategies for identifying the practice gap</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6IkGl81LJq6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 1B: Identifying key stakeholders</name>
+			<description lang="und">Step 1B: Identifying key stakeholders</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6d67YZAQ4cQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 1C: Engaging key stakeholders</name>
+			<description lang="und">Step 1C: Engaging key stakeholders</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5hocvxZ77YX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 2: Measuring the practice gap</name>
+			<description lang="und">Step 2: Measuring the practice gap</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5aG8HKl1yek" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 1: Identify the problem</name>
+			<description lang="und">Step 1: Identify the problem</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6Ho0ulnPMIG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 3: Identify new knowledge for implementation</name>
+			<description lang="und">Step 3: Identify new knowledge for implementation</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5ldPkzfKED8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 4: Review new knowledge for implementation</name>
+			<description lang="und">Step 4: Review new knowledge for implementation</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5YiS43dsNQ0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 5: Select new knowledge for implementation</name>
+			<description lang="und">Step 5: Select new knowledge for implementation</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5XVkyWe4AoM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 2: Measuring the problem</name>
+			<description lang="und">Step 2: Measuring the problem</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5Z3Nny9RUW5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Action Plan &amp; Toolbox</name>
+			<description lang="und">Action Plan &amp; Toolbox</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6mWRc4c6A2s" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Testimonials: Pysiotherapy</name>
+			<description lang="und">Testimonials: Pysiotherapy</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5ugSyHWxdYQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Testimonials: Psychiatry</name>
+			<description lang="und">Testimonials: Psychiatry</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5eNO96myVzv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Testimonials: Nursing</name>
+			<description lang="und">Testimonials: Nursing</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/668Fq8HTdZK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Maureen</name>
+			<description lang="und">Maureen</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/5fw7EvdsmYo" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Exit</name>
+			<description lang="und">Exit</description>
+		</activity>
+		<activity id="http://6elwq0CXvn5_course_id/6CMiNsTKTmn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Help</name>
+			<description lang="und">Help</description>
+		</activity>
+	</activities>
+</tincan>
